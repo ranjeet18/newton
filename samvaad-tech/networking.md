@@ -33,6 +33,6 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 9. Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna.
 
 
-**Tips**:
-1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
-2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
+
+
+https://www.computerhope.com/jargon/n/network.htm
