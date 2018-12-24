@@ -31,8 +31,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 7. Ek computer jo ki aapke local computer pe nahi hai, aap usse kaise baat karenge?
 8. Upar waale process, mai kya DNS ka use aayega?
 9. Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna.
-
-
+https://www.computerhope.com/jargon/n/network.htm
 **Tips**:
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
 2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
